@@ -11,17 +11,17 @@ in a polite program, and I check all my denominators for zero.
 
 `<blinking><bold>I AM NOT INSANE!!!</bold></blinking>`
 
-There are dark realms of Computer Science into which no mortals should
-probe.  Yet the mysteries of the Halting Problem are to interesting to
+There are dark realms of Computer Science into which no mortal should
+probe.  Yet the mysteries of the Halting Problem are too interesting for me to
 ignore.  I cannot stop my self from pondering infinite lists and their
 strange properties, nor the questions of what really happens beyond the
 event horizon of infinite recursion.
 
 ## Caveat Lector
 I beg you, Dear Reader, not to glance further, for there are dangers
-here for those with a weak mind that cannot fathom the infinite vortex
+here for a "developer" with a weak mind that cannot fathom the infinite vortex
 of cpu time and stack space.  Grotesque dreams, sleepless nights,
-and certain madness await you if you continue...
+weird algorithms, and certain madness await you if you continue...
 
 ## HOWTO
 ```
