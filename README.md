@@ -122,3 +122,9 @@ def MoreAlwaysFinally(always, final):
         yield always
     yield final
 ```
+
+## Apology
+This has nothing to do with Mike Kramlich's "Pythulhu Engine",
+about which I know nothing, but it sounds interesting!
+
+-- strick
