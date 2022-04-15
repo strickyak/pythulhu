@@ -18,7 +18,7 @@ strange properties, nor the questions of what really happens beyond the
 event horizon of infinite recursion.
 
 ## Caveat Haxor
-I beg you, Dear Reader, not to glance further, for there are dangers
+I beg you, Dear Reader, to glance no further, for there are dangers
 here for a "developer" with a weak mind that cannot fathom the infinite vortex
 of cpu time and stack space.  Grotesque dreams, sleepless nights,
 weird algorithms, and certain madness await you if you continue...
