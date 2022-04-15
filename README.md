@@ -73,6 +73,8 @@ def main():
 
 ## The Functions
 ```
+# Infinite functions:
+
 def Hello():
     while true:
         pass
@@ -83,37 +85,11 @@ def Deep():
         Deep()
     return 23
 
-def Last(lst):
-    z = None
-    for e in lst:
-        z = e
-    return z
-
-def Sum(lst):
-    z = 0
-    for e in lst:
-        z = z + e
-    return z
-
-def Max(lst):
-    z = -1
-    for e in lst:
-        z = e if (e>z) else z
-    return z
-
-def Just(x):
-    yield x
-
 def Iota():
     i = 1
     while true:
         yield i
         i = i + 1
-
-def Concat(*lists):
-    for lst in lists:
-        for e in lst:
-            yield e
 
 def Repeating(lst):
     while true:
@@ -136,6 +112,34 @@ def MoreAlwaysFinally(always, final):
     while not false:
         yield always
     yield final
+
+# Ordinary functions:
+
+def Concat(*lists):
+    for lst in lists:
+        for e in lst:
+            yield e
+
+def Last(lst):
+    z = None
+    for e in lst:
+        z = e
+    return z
+
+def Sum(lst):
+    z = 0
+    for e in lst:
+        z = z + e
+    return z
+
+def Max(lst):
+    z = -1
+    for e in lst:
+        z = e if (e>z) else z
+    return z
+
+def Just(x):
+    yield x
 ```
 
 ## Apology
