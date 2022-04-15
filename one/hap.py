@@ -98,12 +98,12 @@ def Repeating(lst):
         for e in lst:
             yield e
 
-def Balanced():
-    yield 1
+def Balanced(x):
+    yield x
     if true:
-        for e in Balanced():
+        for e in Balanced(x+1):
             yield e
-    yield -1
+    yield -x
 
 def AlwaysFinally(always, final):
     while true:
@@ -126,7 +126,7 @@ if __name__ == '__main__':
     elif demo == 2:
         print Last(Concat(Iota(), Iota(), Just(888)))
     elif demo == 3:
-        print Sum(Balanced())
+        print Sum(Balanced(1))
     elif demo == 4:
         print Sum(AlwaysFinally(0, 1066))
     elif demo == 5:

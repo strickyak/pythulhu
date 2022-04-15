@@ -121,12 +121,12 @@ def Repeating(lst):
         for e in lst:
             yield e
 
-def Balanced():
-    yield 1
+def Balanced(x):
+    yield x
     if true:
-        for e in Balanced():
+        for e in Balanced(x+1):
             yield e
-    yield -1
+    yield -x
 
 def AlwaysFinally(always, final):
     while true:
