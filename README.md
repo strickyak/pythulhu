@@ -17,7 +17,7 @@ ignore.  I cannot stop my self from pondering infinite lists and their
 strange properties, nor the questions of what really happens beyond the
 event horizon of infinite recursion.
 
-## Caveat Lector
+## Caveat Haxor
 I beg you, Dear Reader, not to glance further, for there are dangers
 here for a "developer" with a weak mind that cannot fathom the infinite vortex
 of cpu time and stack space.  Grotesque dreams, sleepless nights,
