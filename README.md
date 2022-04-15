@@ -3,7 +3,7 @@
 * I have an advanced degree in Information Science and Computer Science
 from a prominent technical university.
 * I've been employed for years as a Software Engineer by one of the most important web giants.
-* I've had articles published in the magazine "C++ Report".
+* I've had articles published in the magazine "C++ Report", and I'm a co-author of the OMDG Standard 2.0.
 * My Erdős Pál number is 3, via Michael Barnsley, who discovered the inverse
 theorem of fractals and iterated function systems.
 * Colleagues admire my coding skills.  I would never use a `goto` statement
