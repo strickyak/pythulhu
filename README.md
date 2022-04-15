@@ -47,7 +47,7 @@ python2 hap.py 7
 
 ## The Demos
 ```
-if __name__ == '__main__':
+def main():
     import sys
     demo = int(sys.argv[1])
 

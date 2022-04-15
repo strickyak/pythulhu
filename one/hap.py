@@ -1,55 +1,4 @@
 # GPL2.  Share your improvements!  --strick
-from fhtagn import Boolean
-true = Boolean(True)
-false = Boolean(False)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 def Hello():
     while true:
@@ -115,7 +64,7 @@ def MoreAlwaysFinally(always, final):
         yield always
     yield final
 
-if __name__ == '__main__':
+def main():
     import sys
     demo = int(sys.argv[1])
 
@@ -137,3 +86,103 @@ if __name__ == '__main__':
         print Sum(Repeating([+1, -1]))
     else:
         print "UNKNOWN DEMO: %s" % demo
+
+# End.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if __name__ == '__main__':
+    from fhtagn import Boolean
+    true = Boolean(True)
+    false = Boolean(False)
+    main()
